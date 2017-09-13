@@ -2,7 +2,7 @@ package net.crbdev.testapp;
 
 public class Message 
 {
-	String message = "Hello World!\n";
+	String message = "Hello World! (101) \n";
 	
 	public String getMessage() {
 		return message;
@@ -10,8 +10,9 @@ public class Message
 
 	public Message()
 	{
-		
+		// Nothing here
 	}
 	
 	
 }
+                                                   
