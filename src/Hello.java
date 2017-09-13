@@ -3,7 +3,9 @@ public class Hello {
 
 	public static void main(String[] args) 
 	{
-		System.out.println("Hello World!!\n");
+		Message m = new Message();
+		
+		System.out.println(m.getMessage());
 	}
 
 }
