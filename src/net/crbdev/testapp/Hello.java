@@ -1,3 +1,4 @@
+package net.crbdev.testapp;
 
 public class Hello {
 
